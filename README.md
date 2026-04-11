@@ -102,3 +102,9 @@ Planned experiments include:
 ## Author
 
 Created as an ongoing learning project focused on software engineering, backend architecture, and distributed system design.
+
+## Contributing
+
+Contributions are welcome. Please open issues or submit pull requests.
+
+See CONTRIBUTING.md for details.
