@@ -1,6 +1,6 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/erFig/system-design-playground/badge)](https://securityscorecards.dev/viewer/?uri=github.com/erFig/system-design-playground)
 
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12461/badge)](https://www.bestpractices.dev/projects/12461)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12461/badge?v=1)](https://www.bestpractices.dev/projects/12461)
 
 # System Design Playground
 
