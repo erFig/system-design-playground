@@ -1,5 +1,7 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/erFig/system-design-playground/badge)](https://securityscorecards.dev/viewer/?uri=github.com/erFig/system-design-playground)
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12461/badge)](https://www.bestpractices.dev/projects/12461)
+
 # System Design Playground
 
 A hands-on repository exploring real-world software architecture, backend systems, and distributed computing concepts.
